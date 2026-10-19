@@ -1,0 +1,58 @@
+{
+  "packages": [
+    {
+      "id": "pocket-tts",
+      "version": "2026.10.1",
+      "files": [
+        {
+          "path": "flow_lm_main_int8.onnx",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.1/flow_lm_main_int8.onnx",
+          "sha256": "a22bdfb4f0898bd8d227a6fa51047f0a3b9b055599a14acd320037069096c961",
+          "bytes": 75865936
+        },
+        {
+          "path": "flow_lm_flow_int8.onnx",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.1/flow_lm_flow_int8.onnx",
+          "sha256": "ab6bea8797417326e009a4725c40275a2d6a24880e0d50a883835658fe47df78",
+          "bytes": 9935594
+        },
+        {
+          "path": "mimi_decoder_int8.onnx",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.1/mimi_decoder_int8.onnx",
+          "sha256": "1fcc5f9915aad0baaa045c7e5030e7538ddd57d0342b1dde06ba2b418164a3c3",
+          "bytes": 22616918
+        },
+        {
+          "path": "text_conditioner.onnx",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.1/text_conditioner.onnx",
+          "sha256": "54c0f4794070bcc35eeec55ecd64c224fdb58e09603aa0b0e84bf81643e0067c",
+          "bytes": 16388310
+        },
+        {
+          "path": "mimi_encoder.onnx",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.1/mimi_encoder.onnx",
+          "sha256": "026d065644a7809a63f9170e8c578740155c19b769ccf02505fee9f6dc7ea1e4",
+          "bytes": 72702731
+        },
+        {
+          "path": "tokenizer.model",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.1/tokenizer.model",
+          "sha256": "d461765ae179566678c93091c5fa6f2984c31bbe990bf1aa62d92c64d91bc3f6",
+          "bytes": 59339
+        },
+        {
+          "path": "voices/marius.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.1/marius.wav",
+          "sha256": "076968c3122520f3412eb7090e8c1c3f75fe57be1e24a2f96465583d84c71e16",
+          "bytes": 480044
+        },
+        {
+          "path": "voices/anna.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.1/anna.wav",
+          "sha256": "0a6de25cf12bf1540beb85979f306a92be81fecc051c547c5395e7e5237a3856",
+          "bytes": 804630
+        }
+      ]
+    }
+  ]
+}
