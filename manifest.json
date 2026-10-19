@@ -2,7 +2,7 @@
   "packages": [
     {
       "id": "pocket-tts",
-      "version": "2026.10.1",
+      "version": "2026.10.2",
       "files": [
         {
           "path": "flow_lm_main_int8.onnx",
@@ -51,6 +51,108 @@
           "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.1/anna.wav",
           "sha256": "0a6de25cf12bf1540beb85979f306a92be81fecc051c547c5395e7e5237a3856",
           "bytes": 804630
+        },
+        {
+          "path": "voices/alba.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/alba.wav",
+          "sha256": "46264e83cb99115c3d210260e029117566d9c64f20266d10daa78107759ede3e",
+          "bytes": 958542
+        },
+        {
+          "path": "voices/javert.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/javert.wav",
+          "sha256": "b889e080eec3efa824bddaf875b4f531d75464f88128d08941ae648d9d3ade70",
+          "bytes": 480044
+        },
+        {
+          "path": "voices/vera.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/vera.wav",
+          "sha256": "309cf91a895830f15842b398f69a4962cb1f7e0bfab10e25dd27838e826c204b",
+          "bytes": 691416
+        },
+        {
+          "path": "voices/fantine.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/fantine.wav",
+          "sha256": "5f07d4e2a3f20a15572aae885156b43ef3fc12ef3812996fd135680d9956448b",
+          "bytes": 674852
+        },
+        {
+          "path": "voices/charles.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/charles.wav",
+          "sha256": "6b681a429198f16e378d53bccb08d06939da7b00144a7696111d4f8f76be7756",
+          "bytes": 639272
+        },
+        {
+          "path": "voices/paul.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/paul.wav",
+          "sha256": "7aba504fe0b3b16478b69eb27ce6007e3cb42b0c1915b5f1c6a6024ae37d679b",
+          "bytes": 717182
+        },
+        {
+          "path": "voices/eponine.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/eponine.wav",
+          "sha256": "a13c27fb47627b05223691a0ef2974358a18c886e6c2f9d2762ff1d02c20926b",
+          "bytes": 716330
+        },
+        {
+          "path": "voices/azelma.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/azelma.wav",
+          "sha256": "60e3d26cdf2efdec5df712152c839928f4d5522821e6554ae11fd96c57ab1026",
+          "bytes": 823852
+        },
+        {
+          "path": "voices/george.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/george.wav",
+          "sha256": "29a41f93bf5236e5b21501091d7774c255d5f3d4e62fa4f9fdf0a92a793c84ae",
+          "bytes": 642692
+        },
+        {
+          "path": "voices/mary.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/mary.wav",
+          "sha256": "a35b0468382218e9f37a9a7494d1e4b74deaf18d7ced22265b4e325bb55c183f",
+          "bytes": 639084
+        },
+        {
+          "path": "voices/jane.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/jane.wav",
+          "sha256": "2f12e7f155eb3118f55425394f1b049e5b1b67bdc9b3932c8ba4521420aeb84a",
+          "bytes": 759340
+        },
+        {
+          "path": "voices/michael.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/michael.wav",
+          "sha256": "b6743e9195e5e3fd34fe9d1633ae93f7ffab787b249e45f6467d7d6f7a6ee6ad",
+          "bytes": 751140
+        },
+        {
+          "path": "voices/eve.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/eve.wav",
+          "sha256": "396e7cbd066b0f3fb6d67fa26e7904076958239d736d4390f15b5fe88feb14cd",
+          "bytes": 671872
+        },
+        {
+          "path": "voices/bill.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/bill.wav",
+          "sha256": "be4815e4fb760ba1b78117545a260cce4a4c124c7657bc5c6127a0fef8ba661f",
+          "bytes": 955496
+        },
+        {
+          "path": "voices/peter.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/peter.wav",
+          "sha256": "fbb3920fda7ae26a5a8b317ffcae1d55c0bd5d89d075205f5a52b1e924b83f51",
+          "bytes": 524448
+        },
+        {
+          "path": "voices/stuart.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/stuart.wav",
+          "sha256": "00c7baeb2fb7a8c1c6198e045b5e853a7ccc04002a51a09b4be3dd7c96994f73",
+          "bytes": 745776
+        },
+        {
+          "path": "voices/caro.wav",
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.2/caro.wav",
+          "sha256": "40c692c005a0268a7a5b6ebae348077d3dca6a86eb6b12bd36e343bbcd71b5f6",
+          "bytes": 743528
         }
       ]
     }
