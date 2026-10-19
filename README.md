@@ -18,6 +18,9 @@ after publishing (a new model version gets a new release).
     `fantine` p244, `charles` p254, `paul` p259, `eponine` p262, `azelma` p303, `george` p315,
     `mary` p333, `jane` p339, `michael` p360, `eve` p361 (`*_023_enhanced.wav`).
 
-Release `2026.10.2` adds the voices only; its manifest still points at the `2026.10.1` model files.
+Release `2026.10.2` adds the voices only. Release `2026.10.3` replaces `flow_lm_main_int8`, `flow_lm_flow_int8`
+and `mimi_decoder_int8` with weight-only 4-bit versions (float activations; the dynamic INT8 ones
+caused a 200 Hz buzz). The file names keep `_int8` because PocketTTS.cpp loads those names.
+`manifest.json` lists the release each file comes from.
 
 Changes from the originals: converted to ONNX and quantised to INT8; voice files renamed.

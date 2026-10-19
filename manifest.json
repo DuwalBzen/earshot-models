@@ -2,25 +2,25 @@
   "packages": [
     {
       "id": "pocket-tts",
-      "version": "2026.10.2",
+      "version": "2026.10.3",
       "files": [
         {
           "path": "flow_lm_main_int8.onnx",
-          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.1/flow_lm_main_int8.onnx",
-          "sha256": "a22bdfb4f0898bd8d227a6fa51047f0a3b9b055599a14acd320037069096c961",
-          "bytes": 75865936
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.3/flow_lm_main_int8.onnx",
+          "sha256": "48aeab59b6b80f13361ca0ba809df8a5190248f60364eb60a0db26f40cb27184",
+          "bytes": 47453412
         },
         {
           "path": "flow_lm_flow_int8.onnx",
-          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.1/flow_lm_flow_int8.onnx",
-          "sha256": "ab6bea8797417326e009a4725c40275a2d6a24880e0d50a883835658fe47df78",
-          "bytes": 9935594
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.3/flow_lm_flow_int8.onnx",
+          "sha256": "4ea5bd5d978931dcf83a7aa0a68b524ead58a94c62c5b9723213a8fb3fa5a8c7",
+          "bytes": 37312586
         },
         {
           "path": "mimi_decoder_int8.onnx",
-          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.1/mimi_decoder_int8.onnx",
-          "sha256": "1fcc5f9915aad0baaa045c7e5030e7538ddd57d0342b1dde06ba2b418164a3c3",
-          "bytes": 22616918
+          "url": "https://github.com/DuwalBzen/earshot-models/releases/download/2026.10.3/mimi_decoder_int8.onnx",
+          "sha256": "36511e74b220d88076baecfa085dd4efe621e9b68f4f7dc7080a0c0a5bf661a1",
+          "bytes": 20179996
         },
         {
           "path": "text_conditioner.onnx",
