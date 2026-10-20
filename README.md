@@ -23,4 +23,6 @@ and `mimi_decoder_int8` with weight-only 4-bit versions (float activations; the 
 caused a 200 Hz buzz). The file names keep `_int8` because PocketTTS.cpp loads those names.
 `manifest.json` lists the release each file comes from.
 
-Changes from the originals: converted to ONNX and quantised to INT8; voice files renamed.
+Changes from the originals: converted to ONNX and quantised (4-bit weights since 2026.10.3); voice files
+renamed. Kyutai, CSTR and the voice donors do not endorse Earshot. Licences: CC BY 4.0
+(https://creativecommons.org/licenses/by/4.0/) and CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).
