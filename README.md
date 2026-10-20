@@ -23,6 +23,12 @@ and `mimi_decoder_int8` with weight-only 4-bit versions (float activations; the 
 caused a 200 Hz buzz). The file names keep `_int8` because PocketTTS.cpp loads those names.
 `manifest.json` lists the release each file comes from.
 
+**Since 2026.10.4 the package contains no voice encoder and no voice recordings.** Each voice ships
+as a pre-computed embedding (`voices/.cache/<voice>.emb`, made with
+`spikes/g1-pocket-tts/make_voice_embeddings.sh` in the Earshot repo), so the package cannot be used to
+clone other voices. Releases 2026.10.1 and 2026.10.2 still hold the earlier files.
+
+
 Changes from the originals: converted to ONNX and quantised (4-bit weights since 2026.10.3); voice files
 renamed. Kyutai, CSTR and the voice donors do not endorse Earshot. Licences: CC BY 4.0
 (https://creativecommons.org/licenses/by/4.0/) and CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).
